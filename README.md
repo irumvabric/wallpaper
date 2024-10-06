@@ -24,7 +24,7 @@
 - **Web Design:** Figma
 - **Design & Graphics:** Canva
 - **Backend:** Python, Node.js
-- **App Development:** Flutter
+- **App Development:** Flutter, Spring Boot
 - **CMS:** WordPress
 
 ### 🎯 **Currently Learning:**
